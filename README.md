@@ -4,11 +4,7 @@ In this project, I performed detailed exploration. I found correlations and tren
 
 ## Important Note
 
-# Adjust Here
-| Column    | Description |
-| ---      | ---       |
-|work_year| The year the salary was paid.         |
-
+There is a file called data dictionary in the directory. That explains which column indicates what.
 
 
 
